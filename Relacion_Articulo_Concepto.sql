@@ -1,0 +1,2 @@
+INSERT INTO DSCxpCptosXArt (Cod_Art) VALUES
+	 (N'ACCIOSSOB');
